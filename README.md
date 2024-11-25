@@ -1,2 +1,3 @@
 # AA_Mid_Exam
-This repository is for my foundation of analytics mid exam
+Foundation of Analytics_SLU
+
